@@ -7,6 +7,8 @@ Learning Reflection Template
 Part 1: Key Terms and Concepts
 
 __My Terms__
+
+
 __Term/Concept 1__: __Interface__  
 
 __Definition__: An interface is like a set of rules that different parts of a computer program follow when they need to work together. It tells them what kind of information they can share and how to do it, making sure everything runs smoothly even if they're built differently.
