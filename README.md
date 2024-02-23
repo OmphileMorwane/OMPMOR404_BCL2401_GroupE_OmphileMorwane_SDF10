@@ -1,32 +1,10 @@
 # OMPMOR404_BCL2401_GroupE_OmphileMorwane_SDF10
 
 Title of the Project: APIs Learning Reflection
+
 Learning Reflection Template
+
 Part 1: Key Terms and Concepts
-Core Concepts and Key Terms
-API (Application Programming Interface): Understanding the basic concept, functionality, and purpose of APIs in software development.
-
-Interface: The definition and role of interfaces in technology, and how they differ from APIs.
-
-API Components: Learning the key components that make up an API.
-
-Types of APIs: Differentiating between various types of APIs and their specific roles and applications in technology.
-
-Remote (Web) APIs: Understanding how Remote APIs function, including their request-response mechanism.
-
-Client-Server Model: Grasping the fundamentals of the web, particularly the client-server model, and how APIs operate within this framework.
-
-REST (Representational State Transfer): Learning the basics of RESTful APIs, including their core principles and applications.
-
-API Exploration and Implementation: Basic operations of online APIs, exploring specific API implementations, and hands-on interaction with API tools.
-
-Command-Line API Interaction: Using command-line tools for API interaction, understanding API authentication methods, and parsing API responses.
-
-Curl: Understanding and using Curl for API interactions, including basic commands and its application in API requests.
-
-API Exploration Tools: Discovering and using various tools for API exploration and interaction, and their application in real-world scenarios.
-
-Helper Libraries: Understanding the role and usage of helper libraries in API interactions and their implementation in programming.
 
 __My Terms__
 __Term/Concept 1__: __Interface__  
@@ -71,7 +49,7 @@ __Definition__: A remote web API is a set of rules and protocols that allow your
 
 __My Understanding__: 5 
 
-__Example/Application__: Using Instagram as an example, it uses a remote web API behind the scenes to interact with its servers and fetch data for your feed. When you open the Instagram app on your phone to browse through posts and photos, the Instagram app sends requests to a remote web API owned by Instagram. These requests ask for things like the latest posts from people you follow or suggestions for new accounts to follow. The Instagram API receives the request from the app and knows how to handle it. It communicates with Instagram's servers, retrieving the requested data such as posts, photos, comments, and user profiles. Once the Instagram API has the data from the servers, it sends a response back to the Instagram app. This response contains the requested information, like the latest posts from your friends or recommended accounts to follow. Finally, the Instagram app receives the response from the API and displays the content on your phone screen. You can see the latest posts from people you follow, explore new content, like and comment on posts, and interact with other users—all thanks to the data fetched by the API.
+__Example/Application__: Using Instagram as an example, it uses a remote web API behind the scenes to interact with its servers and fetch data for your feed. When you open the Instagram app on your phone to browse through posts and photos, the Instagram app sends requests to a remote web API owned by Instagram. These requests ask for things like the latest posts from people you follow or suggestions for new accounts to follow. The Instagram API receives the request from the app and knows how to handle it. It communicates with Instagram's servers, retrieving the requested data such as posts, photos, comments, and user profiles. Once the Instagram API has the data from the servers, it sends a response back to the Instagram app. This response contains the requested information, like the latest posts from your friends or recommended accounts to follow. Finally, the Instagram app receives the response from the API and displays the content on your phone screen. You can see the latest posts from people you follow, explore new content, like and comment on posts, and interact with other users.
 
 
 
